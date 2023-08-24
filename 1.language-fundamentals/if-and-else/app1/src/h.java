@@ -9,7 +9,7 @@ class  h
 		{
 			System.out.println("inner if");
 		
-		System.out.println("end of main");
+		//System.out.println("end of main");
 		}
 		}
 	}

@@ -4,8 +4,7 @@ class g
 	{
 		if (false || true)
 		{
-			System.out.println("from if");
-			
+			System.out.println("from if")
 		}
 		System.out.println("end of main");
 	}
